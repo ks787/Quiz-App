@@ -39,7 +39,7 @@ cd quiz-basic
 ```bash
 npm install
 ```
-###Step 3: Start Development Server
+### Step 3: Start Development Server
 ```bash
 npm run dev
 ```
