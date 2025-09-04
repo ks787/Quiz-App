@@ -30,14 +30,20 @@ Users can start the quiz, answer questions one by one, and see their final score
 
 ## ⚡ Getting Started
 
-### 1. Clone the repository
+### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/your-username/quiz-basic.git
 cd quiz-basic
----
-### 2. Install dependencies: 
+```
+### Step 2: Install Dependencies
+```bash
 npm install
-
-3. Run the development server
+```
+###Step 3: Start Development Server
+```bash
 npm run dev
+```
+After running this command, open the link shown in the terminal (default:
+👉 http://localhost:5173
+) in your browser
 
