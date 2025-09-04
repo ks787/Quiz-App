@@ -24,3 +24,20 @@ Users can start the quiz, answer questions one by one, and see their final score
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/quiz-basic.git
+cd quiz-basic
+---
+### 2. Install dependencies: 
+npm install
+
+3. Run the development server
+npm run dev
+
