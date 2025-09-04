@@ -33,7 +33,7 @@ Users can start the quiz, answer questions one by one, and see their final score
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/your-username/quiz-basic.git
-cd quiz-basic
+cd quiz
 ```
 ### Step 2: Install Dependencies
 ```bash
